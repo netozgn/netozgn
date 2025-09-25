@@ -14,7 +14,6 @@
   <li>📱 Experiência prévia com <strong>Java</strong> e no desenvolvimento de aplicativos móveis com <strong>Flutter</strong>.</li>
 </ul>
 
-
 ---
 
 ### 🛠️ Tech Stack
@@ -29,6 +28,12 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/NoSQL-E95420?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL">
 </p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netozgn&theme=transparent&hide_border=true)
 
 ---
 
