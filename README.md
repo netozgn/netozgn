@@ -1,4 +1,4 @@
-# Olá, Mundo! Eu sou Fernando Neto! 👋
+# Olá, Mundo!👋
 
 <p>
   Sou um Desenvolvedor de Software brasileiro e estudante de Ciência da Computação na <strong>PUCRS</strong>.
