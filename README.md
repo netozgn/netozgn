@@ -10,8 +10,9 @@
 
 <ul>
   <li>🎓 Cursando <strong>Ciência da Computação na PUCRS</strong>.</li>
-  <li>🐍 Focado em projetos com <strong>Python</strong>, desenvolvendo automações e soluções de web scraping.</li>
-  <li>📱 Experiência prévia com <strong>Java</strong> e no desenvolvimento de aplicativos móveis com <strong>Flutter</strong>.</li>
+<li>🐍 Experiência sólida com <strong>Python</strong>, desenvolvendo automações e soluções de web scraping.</li>
+<li>📱 Atualmente focado no desenvolvimento de aplicativos móveis com <strong>Flutter</strong>, utilizando arquitetura <strong>MVVM</strong> e boas práticas de modularização.</li>
+
 </ul>
 
 ---
