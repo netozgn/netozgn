@@ -27,12 +27,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netozgn&theme=transparent&hide_border=true)
-
----
-
 ### 📫 Conecte-se Comigo
 
 <p>
