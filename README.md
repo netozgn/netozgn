@@ -1,21 +1,3 @@
-# Olá, Mundo!👋
-
-<p>
-  Sou um Desenvolvedor de Software brasileiro e estudante de Ciência da Computação na <strong>PUCRS</strong>.
-</p>
-
----
-
-### Sobre Mim
-
-<ul>
-  <li>🎓 Cursando <strong>Ciência da Computação na PUCRS</strong>.</li>
-<li>🐍 Experiência sólida com <strong>Python</strong>, desenvolvendo automações e soluções de web scraping.</li>
-<li>📱 Atualmente focado no desenvolvimento de aplicativos móveis com <strong>Flutter</strong>, utilizando arquitetura <strong>MVVM</strong> e boas práticas de modularização.</li>
-
-</ul>
-
----
 
 ### 🛠️ Tech Stack
 
