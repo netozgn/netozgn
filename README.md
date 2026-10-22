@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=02569B&style=for-the-badge&label=Visitas" alt="Visitas ao perfil">
+  <img src="https://komarev.com/ghpvc/?username=netozgn&color=02569B&style=for-the-badge&label=Visitas" alt="Visitas ao perfil">
 </p>
 
 ---
@@ -21,20 +21,12 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=netozgn&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netozgn&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="Sequência de commits">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true" width="100%" alt="Gráfico de atividade">
+  <img src="https://streak-stats.demolab.com?user=netozgn&theme=tokyonight&hide_border=true" alt="Sequência de commits">
 </p>
 
 ---
