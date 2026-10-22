@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Fernando+Cabral!;Dev+Python+%7C+Java+%7C+Flutter;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=netozgn&color=02569B&style=for-the-badge&label=Visitas" alt="Visitas ao perfil">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Fernando+Cabral%2C+desenvolvedor+Flutter" alt="Typing SVG">
 </p>
 
 ---
@@ -21,7 +17,6 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=netozgn&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netozgn&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
 </p>
 
